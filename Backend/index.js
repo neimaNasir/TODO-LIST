@@ -20,7 +20,7 @@ import mongoose from "mongoose";
 //const cors = require('cors'); // Import CORS
 
 const app = express();
-const PORT = 3000;
+const PORT = 5000;
 
 // Use CORS Middleware
 app.use(cors());
