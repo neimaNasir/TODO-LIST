@@ -1,4 +1,4 @@
-```markdown
+
 # Cloud Engineering Pathway Assessment
 ## Full-Stack To-Do List Application Documentation
 
