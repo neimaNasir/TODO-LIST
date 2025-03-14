@@ -15,7 +15,7 @@ services:
     depends_on:
       - mongo
     environment:
-      MONGO_URI: mongodb://mongo:27017/todo-db  # This should point to the mongo service
+      MONGO_URI: mongodb://mongo:27017/todo-db  
 
   mongo:
     image: mongo
