@@ -58,7 +58,7 @@ You should see three containers: frontend, backend, and database.
 
 #### Access the Application:
 - **Frontend**: Open your browser and navigate to [http://localhost:3000](http://localhost:3000).
-- **Backend API**: Access the API at [http://localhost:5000/api/todos](http://localhost:5000/api/todos).
+- **Backend API**: Access the API at [http://localhost:5000](http://localhost:5000).
 - **Database**: MongoDB is accessible at `mongodb://localhost:27017`.
 
 #### Stop the Containers:
